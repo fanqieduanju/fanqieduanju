@@ -33,12 +33,11 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    '52crdh@gmail.com'
+    'fqaidj@gmail.com'
 ];
 
 var urls=[
-	'rtmptwcvv.cc/', 
-	'hmqvxrhi.cc/', 
+	'rtmptwcvv.cc/',  
     'gunskjtnt.com/',
 ];                                                                                                                  
 
@@ -51,13 +50,13 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://52dh.pages.dev',
-	'https://52dh.github.io/',
+	'https://fanqieduanju-egu.pages.dev/',
+	'https://fanqieduanju.github.io/fanqieduanju/',
 ];
 var foreverUrls = [
-	  'https://52crdh.net',
+	  'https://fqaidj.net',
 	JumpPage,
-	'https://52crdh.com',
+	'https://fqaidj.com',
 	
 ];
 var notices = [
