@@ -40,8 +40,6 @@ var urls=[
 	'im06z19q.cc',
 ];                                                                                                                  
 
-var JumpPage="https://fanqieju.net/";
-
 var newestUrls = [];
 
 for(var i =0;i<urls.length*3;i++){
