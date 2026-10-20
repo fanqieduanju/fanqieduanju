@@ -40,7 +40,7 @@ var urls=[
 	'im06z19q.cc',
 ];                                                                                                                  
 
-var JumpPage="https://wboyxymwl.cc";
+var JumpPage="https://fanqieju.net/";
 
 var newestUrls = [];
 
@@ -53,7 +53,7 @@ var otherUrls = [
 	'https://fanqieduanju.github.io/fanqieduanju/',
 ];
 var foreverUrls = [
-	  'https://fqaidj.net',
+	  'https://fanqieju.net',
 	JumpPage,
 	'https://fqaidj.com',
 	
