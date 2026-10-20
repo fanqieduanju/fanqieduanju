@@ -33,16 +33,14 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    '52crdh@gmail.com'
+    'fqaidj@gmail.com'
 ];
 
 var urls=[
-	'rtmptwcvv.cc/', 
-	'hmqvxrhi.cc/', 
-    'gunskjtnt.com/',
+	'im06z19q.cc', 
 ];                                                                                                                  
 
-var JumpPage="https://wboyxymwl.cc";
+var JumpPage="https://bi62v75m.cc";
 
 var newestUrls = [];
 
@@ -51,13 +49,13 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://52dh.pages.dev',
-	'https://52dh.github.io/',
+	'https://fanqieduanju-egu.pages.dev/',
+	'https://fanqieduanju.github.io/fanqieduanju/',
 ];
 var foreverUrls = [
-	  'https://52crdh.net',
+	  'https://fanqieju.net',
 	JumpPage,
-	'https://52crdh.com',
+	'https://fqaidj.com',
 	
 ];
 var notices = [
@@ -126,14 +124,14 @@ window.onload = function () {
     var logoElem = document.createElement('div');
     logoElem.setAttribute('class', 'brand');
     logoElem.setAttribute('id', 'logo');
-    logoElem.innerHTML = ' <img src="logo.png"  width="180" style="margin-bottom: 10px;"/>'
+    logoElem.innerHTML = ' <img src="logo.png"  width="300" style="margin-bottom: 10px;"/>'
     mainElem.appendChild(logoElem);
 
     //收藏  ‘<br /> \n <br /> <br /> 按 <font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问52成人导航'});
+    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问番茄短剧'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
